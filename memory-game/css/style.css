@@ -57,6 +57,11 @@ footer {
 	font-weight: 500;
 }
 
+button {
+	margin: 25px;
+	font-size: 20px;
+}
+
 .copyright {
 	font-family: "Raleway", sans-serif;
 	float: left;
