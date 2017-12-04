@@ -1,4 +1,4 @@
-
+// javascript for memory game
 var cards = [
 	{
 	rank: "queen",
@@ -62,9 +62,9 @@ var createBoard = function(){
 };
 
 // function to reset the game
-function reset(){
-	location.reload();
-}
+// function reset(){
+// 	location.reload();
+//}
 
 
 
